@@ -5,9 +5,7 @@ description = "python packaging tutorial"
 license = "MIT"
 license-files = ["LICENSE.txt"]
 authors = [
-  {
-    name = "Alexandre Georges", email = "aes.georges@gmail.com"
-  }
+  { name = "Alexandre Georges", email = "aes.georges@gmail.com" }
 ]
 maintainers = []
 # What Python versions are supported
